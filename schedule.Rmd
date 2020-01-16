@@ -16,14 +16,14 @@ library(kableExtra)
 
 ```{r, warning=FALSE}
 Week <- c(1:13)
-Date <- c("1/23", "1/30", "2/6", "2/13","2/20", "2/27", "3/6", "3/20",
-          "3/27", "4/3", "4/10","4/17", "4/24")
-Topic <- c("Planning", "Figures / Data viz","Slide design / posters", 
-           "Design Tools","Alexa / Infographic ideas",
-             "Giving good talks","Laura / Amy",
-             "Know your audience","Kevin / Aubree","Bonus day",
-           "Cassie / Katie","Jillian / Erin",
-             "Matias / Kristina / potluck")
+Date <- c("1/22", "1/29", "2/5", "2/12","2/19", "2/26", "3/4", "3/18",
+          "3/25", "4/1", "4/8","4/15", "4/22")
+Topic <- c("Planning", "?","?", 
+           "?","?",
+             "?","?",
+             "?","?","?",
+           "?","?",
+             "?")
 
 meetings <- cbind(Week, Date, Topic)
 

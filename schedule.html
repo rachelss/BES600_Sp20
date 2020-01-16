@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -85,8 +86,6 @@ overflow: auto;
 margin-left: 2%;
 position: fixed;
 border: 1px solid #ccc;
-webkit-border-radius: 6px;
-moz-border-radius: 6px;
 border-radius: 6px;
 }
 
@@ -114,9 +113,14 @@ font-size: 12px;
 .tocify-subheader .tocify-subheader {
 text-indent: 30px;
 }
-
 .tocify-subheader .tocify-subheader .tocify-subheader {
 text-indent: 40px;
+}
+.tocify-subheader .tocify-subheader .tocify-subheader .tocify-subheader {
+text-indent: 50px;
+}
+.tocify-subheader .tocify-subheader .tocify-subheader .tocify-subheader .tocify-subheader {
+text-indent: 60px;
 }
 
 .tocify .tocify-item > a, .tocify .nav-list .nav-header {
@@ -520,13 +524,13 @@ float: none;
 
           item.append($("<a/>", {
 
-            "text": self.text()
+            "html": self.html()
 
           }));
 
         } else {
 
-          item.text(self.text());
+          item.html(self.html());
 
         }
 
@@ -1352,9 +1356,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -1368,7 +1370,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -1473,8 +1474,6 @@ $(document).ready(function () {
 });
 </script>
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
 
 <style type="text/css">
@@ -1531,48 +1530,9 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -1586,6 +1546,12 @@ $(document).ready(function ()  {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -1621,8 +1587,6 @@ div.tocify {
 
 .tocify-subheader .tocify-item {
   font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
 }
 
 .tocify .list-group-item {
@@ -1631,6 +1595,16 @@ div.tocify {
 
 
 </style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row-fluid">
@@ -1652,7 +1626,7 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">BES 600 URI Spring 2019</a>
+      <a class="navbar-brand" href="index.html">BES 600 URI Spring 2020</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -1710,7 +1684,7 @@ Topic
 1
 </td>
 <td style="text-align:left;">
-1/23
+1/22
 </td>
 <td style="text-align:left;">
 Planning
@@ -1721,10 +1695,10 @@ Planning
 2
 </td>
 <td style="text-align:left;">
-1/30
+1/29
 </td>
 <td style="text-align:left;">
-Figures / Data viz
+?
 </td>
 </tr>
 <tr>
@@ -1732,10 +1706,10 @@ Figures / Data viz
 3
 </td>
 <td style="text-align:left;">
-2/6
+2/5
 </td>
 <td style="text-align:left;">
-Slide design / posters
+?
 </td>
 </tr>
 <tr>
@@ -1743,10 +1717,10 @@ Slide design / posters
 4
 </td>
 <td style="text-align:left;">
-2/13
+2/12
 </td>
 <td style="text-align:left;">
-Design Tools
+?
 </td>
 </tr>
 <tr>
@@ -1754,10 +1728,10 @@ Design Tools
 5
 </td>
 <td style="text-align:left;">
-2/20
+2/19
 </td>
 <td style="text-align:left;">
-Alexa / Infographic ideas
+?
 </td>
 </tr>
 <tr>
@@ -1765,10 +1739,10 @@ Alexa / Infographic ideas
 6
 </td>
 <td style="text-align:left;">
-2/27
+2/26
 </td>
 <td style="text-align:left;">
-Giving good talks
+?
 </td>
 </tr>
 <tr>
@@ -1776,10 +1750,10 @@ Giving good talks
 7
 </td>
 <td style="text-align:left;">
-3/6
+3/4
 </td>
 <td style="text-align:left;">
-Laura / Amy
+?
 </td>
 </tr>
 <tr>
@@ -1787,10 +1761,10 @@ Laura / Amy
 8
 </td>
 <td style="text-align:left;">
-3/20
+3/18
 </td>
 <td style="text-align:left;">
-Know your audience
+?
 </td>
 </tr>
 <tr>
@@ -1798,10 +1772,10 @@ Know your audience
 9
 </td>
 <td style="text-align:left;">
-3/27
+3/25
 </td>
 <td style="text-align:left;">
-Kevin / Aubree
+?
 </td>
 </tr>
 <tr>
@@ -1809,10 +1783,10 @@ Kevin / Aubree
 10
 </td>
 <td style="text-align:left;">
-4/3
+4/1
 </td>
 <td style="text-align:left;">
-Bonus day
+?
 </td>
 </tr>
 <tr>
@@ -1820,10 +1794,10 @@ Bonus day
 11
 </td>
 <td style="text-align:left;">
-4/10
+4/8
 </td>
 <td style="text-align:left;">
-Cassie / Katie
+?
 </td>
 </tr>
 <tr>
@@ -1831,10 +1805,10 @@ Cassie / Katie
 12
 </td>
 <td style="text-align:left;">
-4/17
+4/15
 </td>
 <td style="text-align:left;">
-Jillian / Erin
+?
 </td>
 </tr>
 <tr>
@@ -1842,10 +1816,10 @@ Jillian / Erin
 13
 </td>
 <td style="text-align:left;">
-4/24
+4/22
 </td>
 <td style="text-align:left;">
-Matias / Kristina / potluck
+?
 </td>
 </tr>
 </tbody>
@@ -1870,6 +1844,49 @@ $(document).ready(function () {
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->

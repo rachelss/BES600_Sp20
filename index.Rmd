@@ -1,5 +1,5 @@
 ---
-title: "BES 600 URI Spring 2019"
+title: "BES 600 URI Spring 2020"
 subtitle: "Graduate Seminar in Biology & Env Sci (EMB)"
 author: "Instructor: Rachel Schwartz"
 output: 
