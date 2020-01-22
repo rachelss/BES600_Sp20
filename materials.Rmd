@@ -15,3 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Day 1   
 [Planned activities and schedule](https://docs.google.com/document/d/1puRNCsQRTlHwsrQzMx1K0BLS7aK1j_CpcpULkJeDLas/edit?usp=sharing)  
 [Ideas from last year](https://rachelss.github.io/BES600Spring19/materials.html)
+
+## Day 2  
+[Put links for good (or bad) talks here](https://docs.google.com/document/d/141Xca-tZrS0twbX6-JorSQ3uaRot1NJvSsInXE0BNAY/edit?usp=sharing)
