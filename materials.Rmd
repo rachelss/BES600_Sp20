@@ -18,4 +18,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Day 2  
 [Put links for good (or bad) talks here](https://docs.google.com/document/d/141Xca-tZrS0twbX6-JorSQ3uaRot1NJvSsInXE0BNAY/edit?usp=sharing)  
+[Slides](https://docs.google.com/presentation/d/1vY2E6DXLLXylZoJJZY-x1BXP_WHOQrQLUXuWEt8FSPk/edit?usp=sharing)  
 [Collective talk suggestions](https://docs.google.com/document/d/1BzEFQtv1RVr5g_TodmMdfMOjRlS-mOlmdNBe82T_rC8/edit?usp=sharing)
