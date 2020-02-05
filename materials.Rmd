@@ -24,4 +24,5 @@ knitr::opts_chunk$set(echo = TRUE)
 [Twitter thread of talk advice](https://twitter.com/DocHPJones/status/1222218777456234496?s=20)
 
 ## Day 3  
-[Add a figure or two to these slides](https://docs.google.com/presentation/d/1EU72TjQ2TCL84kiBZdi4RqmZW1KvI9AtfYyfsIY1b5I/edit?usp=sharing)
+[Add a figure or two to these slides](https://docs.google.com/presentation/d/1EU72TjQ2TCL84kiBZdi4RqmZW1KvI9AtfYyfsIY1b5I/edit?usp=sharing)  
+[Rubric](https://docs.google.com/document/d/1Q2jbiM1lM-jkY0VLTkEJVomGyErTiFeS45_Y_5EsacI/edit?usp=sharing)
