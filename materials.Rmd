@@ -28,4 +28,5 @@ knitr::opts_chunk$set(echo = TRUE)
 [Rubric](https://docs.google.com/document/d/1Q2jbiM1lM-jkY0VLTkEJVomGyErTiFeS45_Y_5EsacI/edit?usp=sharing)
 
 ## Day 4
-[Sam's comments](https://docs.google.com/document/d/17dpvCOF1P6Q4WkPKLdkmQSpG84NBhIgo56NgzBljirE/edit?usp=sharing)
+[Sam's comments](https://docs.google.com/document/d/17dpvCOF1P6Q4WkPKLdkmQSpG84NBhIgo56NgzBljirE/edit?usp=sharing)  
+[Emma](https://docs.google.com/document/d/10tmlBzmP0TP2NeOzeVo9ipdHY5loe-5Wfd2coKggZtM/edit?usp=sharing)
