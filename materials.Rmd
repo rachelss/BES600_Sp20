@@ -30,3 +30,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Day 4
 [Sam's comments](https://docs.google.com/document/d/17dpvCOF1P6Q4WkPKLdkmQSpG84NBhIgo56NgzBljirE/edit?usp=sharing)  
 [Emma](https://docs.google.com/document/d/10tmlBzmP0TP2NeOzeVo9ipdHY5loe-5Wfd2coKggZtM/edit?usp=sharing)
+
+## Day 5 Posters
+[Notes](https://docs.google.com/document/d/15HVkPMZ5ejGue5t3CMHHULcZ1f9mVBd910urwSZQ4i8/edit?usp=sharing)
+
+## Day 6 Communication
