@@ -35,4 +35,37 @@ knitr::opts_chunk$set(echo = TRUE)
 [Slides](howtomakeaposter.pdf)  
 [Notes](https://docs.google.com/document/d/15HVkPMZ5ejGue5t3CMHHULcZ1f9mVBd910urwSZQ4i8/edit?usp=sharing)
 
-## Day 6 Communication
+## Day 7 Communication
+[Slides](https://drive.google.com/file/d/1NegvHRJT4QVS8sNTbc7k_WdOMXdH8eac/view?usp=sharing)
+
+## Graphic Design
+[Slides]()  
+[Slides]()
+
+## Day 8
+[Christina](https://docs.google.com/document/d/1O5Evke7ia716YPI4URV4YoVGS05pw5C1NkmEVLjCNPM/edit?usp=sharing)  
+[Jessica](https://docs.google.com/document/d/1zz8yugOM9m7EoOYFX_8Uwaet6JcPOTGCWKx5NTe6dl0/edit?usp=sharing)
+
+## Day 9
+[Amy](https://docs.google.com/document/d/1nifLMHW-PcXwM43PdpMlJBYGf-vYuqGHTxnZ_p8JzDw/edit?usp=sharing)  
+[Jacob](https://docs.google.com/document/d/1aVfWERacMfnJ0NtTF49y5_qRPohSIGPXvpa_g6OLuy4/edit?usp=sharing)
+
+## Day 10
+[Chris](https://docs.google.com/document/d/1OES7lWg4NxvDnGyvvv9BvGD7fGnOzzaplvaF9QHVVfc/edit?usp=sharing)  
+[Dennis](https://docs.google.com/document/d/1qwkyhOV9tNsRLw8aB-b0TxkIsd1XRLs5yzYa0wxE20I/edit?usp=sharing)
+
+## Day 11
+[Aubree]()  
+[Erin B]()
+
+## Day 12
+[Cassie]()  
+[Evelyn]()
+
+## Day 13
+[Matias]()  
+[Erin C]()
+
+## Day 14
+[Alex]()  
+[Eren]()
