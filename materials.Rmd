@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Slides](https://drive.google.com/file/d/1NegvHRJT4QVS8sNTbc7k_WdOMXdH8eac/view?usp=sharing)
 
 ## Graphic Design
-[Slides]()  
+[Slides](https://drive.google.com/file/d/1ME2UQZq6fVCUVlB4fcwX1Di0Ifa2xFy4/view?usp=sharing)  
 [Slides]()
 
 ## Day 8
