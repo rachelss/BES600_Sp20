@@ -60,13 +60,13 @@ knitr::opts_chunk$set(echo = TRUE)
 [Erin B](https://docs.google.com/document/d/1sXLAacr7b-UolJ9wunUY7_cCC3E2SDdvQX6jfEmMtT0/edit?usp=sharing)
 
 ## Day 12
-[Cassie]()  
-[Evelyn]()
+[Cassie](https://docs.google.com/document/d/13HYa6nLeC1NAn-wzaNhyaV118P67_pmx50QDh36fA-8/edit?usp=sharing)  
+[Evelyn](https://docs.google.com/document/d/1AZFomIee5YUdIuwI0AFm5GPqXDh1EQpPnfPJD_OJg1k/edit?usp=sharing)
 
 ## Day 13
-[Matias]()  
-[Erin C]()
+[Matias](https://docs.google.com/document/d/1Syo8xR7hU6lsLgQcLsuzsLPiIhdF2Hoqe9wy5J5vA18/edit?usp=sharing)  
+[Erin C](https://docs.google.com/document/d/1RJ4Kv1enA0k8NhTkGKWbK1bRttaQCUcDPPa4sHfSXw0/edit?usp=sharing)
 
 ## Day 14
-[Alex]()  
-[Eren]()
+[Alex](https://docs.google.com/document/d/1psYxsb-r5ToSHQObhrPfct4hacKmXsLUpzfPR0x7aBc/edit?usp=sharing)  
+[Eren](https://docs.google.com/document/d/1fDmrIW-jfdEhhM3hvzKoH0-HfsXoYF7J4qyH3QtjKnU/edit?usp=sharing)
