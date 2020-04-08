@@ -56,8 +56,8 @@ knitr::opts_chunk$set(echo = TRUE)
 [Dennis](https://docs.google.com/document/d/1qwkyhOV9tNsRLw8aB-b0TxkIsd1XRLs5yzYa0wxE20I/edit?usp=sharing)
 
 ## Day 11
-[Aubree]()  
-[Erin B]()
+[Aubree](https://docs.google.com/document/d/1Fgqpgonp3jJxBDKxHCuEFqFTcY-LdZ2J7UPjKAhf6ts/edit?usp=sharing)  
+[Erin B](https://docs.google.com/document/d/1sXLAacr7b-UolJ9wunUY7_cCC3E2SDdvQX6jfEmMtT0/edit?usp=sharing)
 
 ## Day 12
 [Cassie]()  
