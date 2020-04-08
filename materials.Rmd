@@ -41,7 +41,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Graphic Design
 [Slides: Steve Sabo](https://drive.google.com/file/d/1ME2UQZq6fVCUVlB4fcwX1Di0Ifa2xFy4/view?usp=sharing)  
 [Awesome Data Viz book](https://serialmentor.com/dataviz/)  
-[Slides: Carisa Carubin]()
 
 ## Day 8
 [Christina](https://docs.google.com/document/d/1O5Evke7ia716YPI4URV4YoVGS05pw5C1NkmEVLjCNPM/edit?usp=sharing)  
